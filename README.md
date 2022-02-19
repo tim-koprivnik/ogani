@@ -1,2 +1,2 @@
 # ogani
-Eccomerce template
+Website template, made in HTML & (S)CSS
