@@ -1,2 +1,3 @@
 # ogani
-Website template, made in HTML, (S)CSS and JS
+
+Website theme in HTML, CSS, and Javascript.
